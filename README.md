@@ -7,7 +7,7 @@ Implemented Nxt Trendz application which is a clone for ECommerce applications l
 - Persisted user login state by keeping jwt token in local storage, Sending it in headers of further api calls to authorize the user.
 
 Technologies used: React JS, JS, CSS, Bootstrap, Routing, REST API Calls, Local Storage, JWT Token, Authorization, Authentication
-
+### Login Credentials
 <p> User Name : rahul </p>
 <p> Password : rahul@2021 </p>
 
