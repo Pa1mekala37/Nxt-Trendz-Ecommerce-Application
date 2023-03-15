@@ -1,4 +1,4 @@
-<h1>**Nxt Trendz ( ECommerce Clone - Amazon, Flipkart)**</h1>
+<h1>Nxt Trendz ( ECommerce Clone - Amazon, Flipkart)</h1>
 
 Implemented Nxt Trendz application which is a clone for ECommerce applications like Amazon, Flipkart where users can login and can see list of products with search, filters, sort by, etc..
 
